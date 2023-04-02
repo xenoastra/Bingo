@@ -1,0 +1,6 @@
+download the file
+open a linux based shell
+use command " chmod 777 bingo.sh "
+this will give user/group/other execute permissions
+
+then run ./bingo.sh
